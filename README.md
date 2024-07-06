@@ -108,7 +108,7 @@ The project follows a layered architecture:
 6. Open a pull request.
 
 ## License
-This project is licensed under the GNU License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the GNU License - see the [LICENSE](./license/License.txt) file for details.
 
 ## Contact
 For any inquiries or issues, please contact:
