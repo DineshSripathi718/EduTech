@@ -2,7 +2,7 @@ Here is a `README.md` file tailored for your project:
 
 ---
 
-# Student Registration and Course Creation
+# EduTech Project
 
 ## Description
 This project is designed for student registration and course creation in an edutech industry context. It allows students to register for courses, and administrators to create and manage courses. Built with Spring Boot, it leverages REST APIs, Java, MySQL, and Spring ORM for seamless integration and management of data. API testing is done using Postman.
@@ -108,7 +108,7 @@ The project follows a layered architecture:
 6. Open a pull request.
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the GNU License - see the [LICENSE](LICENSE) file for details.
 
 ## Contact
 For any inquiries or issues, please contact:
